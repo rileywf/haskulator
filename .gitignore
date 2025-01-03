@@ -1,0 +1,11 @@
+dist/
+dist-newstyle/
+.stack-work/
+*~
+*.swp
+book/
+mdbook
+
+
+*.hi
+*.o
